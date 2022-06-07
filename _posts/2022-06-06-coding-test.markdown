@@ -6,7 +6,7 @@ categories: CodingTest Hash
 ---
 
 Note <br>
-![noteImg](./img/220606.PNG)
+![noteImg](/img/220606.PNG)
 
 
 ~~~ c
