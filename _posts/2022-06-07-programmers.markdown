@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "unordered_map"
-date:   2022-06-06 15:23:46 +0900
-categories: CodingTest Hash
+title:  "[Programmers] 직사각형 별찍기"
+date:   2022-06-07 16:13:46 +0900
+categories: CodingTest For
 ---
+
+![Scr2](/img/220607Scr2.png)
 
 Note <br>
 ![noteImg](/img/220607.PNG)
@@ -29,9 +31,7 @@ int main(void) {
 }
 ~~~
 
-
 ![Scr1](/img/220607Scr1.png)
-![Scr2](/img/220607Scr2.png)
 
 ***
 * eMail : <yskl7137@gmail.com>
