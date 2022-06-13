@@ -5,10 +5,10 @@ date:   2022-06-09 08:23:56 +0900
 categories: CodingTest While
 ---
 
-![Scr2](/img/220609_1Scr2.png)
+![Scr2](/img/220609/220609_1Scr2.png)
 
 Note <br>
-![noteImg](/img/220609_1.PNG)
+![noteImg](/img/220609/220609_1.PNG)
 
 
 ~~~ c
@@ -34,7 +34,7 @@ bool solution(int x) {
 }
 ~~~
 
-![Scr1](/img/220609_1Scr1.png)
+![Scr1](/img/220609/220609_1Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

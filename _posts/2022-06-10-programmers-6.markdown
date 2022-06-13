@@ -5,10 +5,10 @@ date:   2022-06-10 10:23:56 +0900
 categories: CodingTest String
 ---
 
-![Scr2](/img/220610_6Scr2.png)
+![Scr2](/img/220610/220610_6Scr2.png)
 
 Note <br>
-![noteImg](/img/220610_6.PNG)
+![noteImg](/img/220610/220610_6.PNG)
 
 ~~~ c
 #include <string>
@@ -39,7 +39,7 @@ string solution(string s) {
 }
 ~~~
 
-![Scr1](/img/220610_6Scr1.png)
+![Scr1](/img/220610/220610_6Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

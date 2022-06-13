@@ -5,7 +5,7 @@ date:   2022-06-10 10:23:56 +0900
 categories: CodingTest
 ---
 
-![Scr2](/img/220610_3Scr1.png)
+![Scr2](/img/220610/220610_3Scr1.png)
 
 Note <br>
 
@@ -38,7 +38,7 @@ long long solution(long long n) {
 }
 ~~~
 
-![Scr1](/img/220610_3Scr2.png)
+![Scr1](/img/220610/220610_3Scr2.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

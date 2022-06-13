@@ -5,7 +5,7 @@ date:   2022-06-10 10:23:56 +0900
 categories: CodingTest String
 ---
 
-![Scr2](/img/220610_5Scr2.png)
+![Scr2](/img/220610/220610_5Scr2.png)
 
 Note <br>
 
@@ -26,7 +26,7 @@ int solution(int n)
 }
 ~~~
 
-![Scr1](/img/220610_5Scr1.png)
+![Scr1](/img/220610/220610_5Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

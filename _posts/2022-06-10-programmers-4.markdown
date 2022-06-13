@@ -5,10 +5,10 @@ date:   2022-06-10 10:23:56 +0900
 categories: CodingTest
 ---
 
-![Scr2](/img/220610_4Scr2.png)
+![Scr2](/img/220610/220610_4Scr2.png)
 
 Note <br>
-![noteImg](/img/220610_4.PNG)
+![noteImg](/img/220610/220610_4.PNG)
 
 ~~~ c
 #include <string>
@@ -28,7 +28,7 @@ vector<int> solution(long long n) {
 }
 ~~~
 
-![Scr1](/img/220610_4Scr1.png)
+![Scr1](/img/220610/220610_4Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

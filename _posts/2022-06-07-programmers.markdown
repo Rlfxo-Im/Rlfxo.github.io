@@ -5,10 +5,10 @@ date:   2022-06-07 16:13:46 +0900
 categories: CodingTest For
 ---
 
-![Scr2](/img/220607Scr2.png)
+![Scr2](/img/220607/220607Scr2.png)
 
 Note <br>
-![noteImg](/img/220607.PNG)
+![noteImg](/img/220607/220607.PNG)
 
 
 ~~~ c
@@ -31,7 +31,7 @@ int main(void) {
 }
 ~~~
 
-![Scr1](/img/220607Scr1.png)
+![Scr1](/img/220607/220607Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

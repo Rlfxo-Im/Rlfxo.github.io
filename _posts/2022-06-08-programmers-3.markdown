@@ -5,10 +5,10 @@ date:   2022-06-08 12:53:26 +0900
 categories: CodingTest String
 ---
 
-![Scr2](/img/220608_3Scr2.png)
+![Scr2](/img/220608/220608_3Scr2.png)
 
 Note <br>
-![noteImg](/img/220608_3.PNG)
+![noteImg](/img/220608/220608_3.PNG)
 
 
 ~~~ c
@@ -30,7 +30,7 @@ string solution(string phone_number) {
 }
 ~~~
 
-![Scr1](/img/220608_3Scr1.png)
+![Scr1](/img/220608/220608_3Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>

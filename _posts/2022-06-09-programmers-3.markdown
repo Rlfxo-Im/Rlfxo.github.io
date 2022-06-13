@@ -5,10 +5,10 @@ date:   2022-06-09 10:23:56 +0900
 categories: CodingTest
 ---
 
-![Scr2](/img/220609_3Scr2.png)
+![Scr2](/img/220609/220609_3Scr2.png)
 
 Note <br>
-![noteImg](/img/220609_3.PNG)
+![noteImg](/img/220609/220609_3.PNG)
 
 
 ~~~ c
@@ -41,7 +41,7 @@ int solution(int num) {
 }
 ~~~
 
-![Scr1](/img/220609_3Scr1.png)
+![Scr1](/img/220609/220609_3Scr1.png)
 
 ***
 * eMail : <yskl7137@gmail.com>
