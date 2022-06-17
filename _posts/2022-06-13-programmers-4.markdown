@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Programmers] 소수 찾기"
-date:   2022-06-11 10:23:56 +0900
+date:   2022-06-14 10:23:56 +0900
 categories: CodingTest
 ---
 
