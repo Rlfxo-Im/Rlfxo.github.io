@@ -26,7 +26,7 @@ vector<int> solution(int m, int n, vector<vector<int>> picture) {
     int max_y = picture.size();
     
     int check[101][101] = {0,};
-    //int dir[4][2] = {{0,1},{0,-1},{1,0},{-1,0}};
+    int dir[4][2] = {0,1},{0,-1},{1,0},{-1,0};
     int num = 0;
     queue <pair<int,int>> q;
     
